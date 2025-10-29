@@ -30,6 +30,7 @@ The repo contains more functions that may not be accepted by the mainline kernel
 - GPD Win 4 (6800U)
 - GPD Win 4 (7840U)
 - GPD Micro PC 2
+- GPD Win 5
 
 ## Usage
 
@@ -64,6 +65,7 @@ Supported models:
 - win4
 - win_mini
 - mpc2
+- duo
 
 ## Install
 
