@@ -78,7 +78,8 @@ Supported models:
 
 - Bilibili: [@范东东咚咚](https://space.bilibili.com/361065271)
 
-<table><thead>
+<table>
+<thead>
   <tr>
     <th colspan="2">Device</th>
     <th colspan="3">DMI</th>
@@ -97,23 +98,24 @@ Supported models:
     <th colspan="2">Addr</th>
     <th>Max</th>
     <th>Auto (=0)</th>
-  </tr></thead>
+  </tr>
+</thead>
 <tbody>
   <tr>
     <td rowspan="4">GPD Win Mini</td>
     <td>7840U</td>
-    <td rowspan="16">GPD</td>
+    <td rowspan="17">GPD</td>
     <td rowspan="2">G1617-01</td>
     <td rowspan="2"></td>
-    <td rowspan="9">0x4E</td>
-    <td rowspan="9">0x4F</td>
-    <td rowspan="8">0x0478</td>
+    <td rowspan="10">0x4E</td>
+    <td rowspan="10">0x4F</td>
+    <td rowspan="9">0x0478</td>
     <td colspan="2" rowspan="6">0x047A</td>
-    <td rowspan="9">244</td>
-    <td rowspan="9">0x047A</td>
+    <td rowspan="10">244</td>
+    <td rowspan="10">0x047A</td>
   </tr>
   <tr>
-    <td>8840u</td>
+    <td>8840U</td>
   </tr>
   <tr>
     <td rowspan="2">HX 370</td>
@@ -139,16 +141,22 @@ Supported models:
     <td rowspan="2"></td>
     <td>G1622-01</td>
     <td></td>
-    <td rowspan="2">0x047A</td>
-    <td rowspan="2">0x047B</td>
+    <td rowspan="3">0x047A</td>
+    <td rowspan="3">0x047B</td>
   </tr>
   <tr>
     <td>G1622-01-L</td>
     <td></td>
   </tr>
+  <tr>
+    <td>GPD Win 5</td>
+    <td></td>
+    <td>G1618-05</td>
+    <td></td>
+  </tr>
     <tr>
-    <td rowspan="1">GPD Micro PC 2</td>
-    <td rowspan="1"></td>
+    <td>GPD Micro PC 2</td>
+    <td></td>
     <td>G1688-08</td>
     <td></td>
     <td>0x476</td>
